@@ -25,3 +25,4 @@ Python scripts that create/update a few Spotify playlists automatically (persona
   - authenticates you to Spotify for the first time instead of needing to manually clone the repo / run scripts
   - makes you able to choose when you want to run the script (modifies the workflow)
   - makes you able to choose which scripts you want / don't want to run (separate workflows)
+- more scripts (for example daily stats via Telegram or backups of playlists / songs)
